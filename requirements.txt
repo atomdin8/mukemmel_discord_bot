@@ -1,0 +1,24 @@
+1) My projects libraries:
+
+import discord
+import random
+import requests
+import time
+import asyncio
+from discord.ext import commands
+
+-----
+
+After typing these into your terminal, you will have downloaded the necessary ones:
+
+pip install discord.py
+
+pip install requests
+
+
+2) I suggest you not to delete the stats.txt document in the folder, the logging feature may not work properly.
+
+
+3) You should open your own server and create a discord bot from this link: 
+https://discord.com/developers/applications
+Then you have to paste the TOKEN owned by the bot into the field at the bottom line of my main.py project file. Otherwise my project will not work.
